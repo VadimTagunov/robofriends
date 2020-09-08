@@ -17,8 +17,11 @@ class ErrorBoundary extends Component {
   render() {
     return (
       <div>
-        this.state.hasError ? <h1>Oops, robots was not fetched...</h1> :
-        {this.props.children}
+        {this.state.hasError ? (
+          <h1>Oops, robots was not fetched...</h1>
+        ) : (
+          this.props.children
+        )}
       </div>
     );
   }
