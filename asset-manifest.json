@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VadimTagunov/robofriends/static/css/main.696a2453.chunk.css",
-    "main.js": "/VadimTagunov/robofriends/static/js/main.a572b003.chunk.js",
-    "main.js.map": "/VadimTagunov/robofriends/static/js/main.a572b003.chunk.js.map",
+    "main.js": "/VadimTagunov/robofriends/static/js/main.2f3d4771.chunk.js",
+    "main.js.map": "/VadimTagunov/robofriends/static/js/main.2f3d4771.chunk.js.map",
     "runtime-main.js": "/VadimTagunov/robofriends/static/js/runtime-main.1a3a6b0b.js",
     "runtime-main.js.map": "/VadimTagunov/robofriends/static/js/runtime-main.1a3a6b0b.js.map",
     "static/css/2.3c03f26f.chunk.css": "/VadimTagunov/robofriends/static/css/2.3c03f26f.chunk.css",
     "static/js/2.fe55e566.chunk.js": "/VadimTagunov/robofriends/static/js/2.fe55e566.chunk.js",
     "static/js/2.fe55e566.chunk.js.map": "/VadimTagunov/robofriends/static/js/2.fe55e566.chunk.js.map",
     "index.html": "/VadimTagunov/robofriends/index.html",
-    "precache-manifest.2de001ecf1a096f5608f4500f69bfeae.js": "/VadimTagunov/robofriends/precache-manifest.2de001ecf1a096f5608f4500f69bfeae.js",
+    "precache-manifest.3bd5197769f16f15067c6f04e22dfdaf.js": "/VadimTagunov/robofriends/precache-manifest.3bd5197769f16f15067c6f04e22dfdaf.js",
     "service-worker.js": "/VadimTagunov/robofriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/VadimTagunov/robofriends/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.696a2453.chunk.css.map": "/VadimTagunov/robofriends/static/css/main.696a2453.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.fe55e566.chunk.js",
     "static/css/main.696a2453.chunk.css",
-    "static/js/main.a572b003.chunk.js"
+    "static/js/main.2f3d4771.chunk.js"
   ]
 }
